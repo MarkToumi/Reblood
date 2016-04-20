@@ -1,0 +1,44 @@
+@charaset"utf-8";
+body{
+  background:url(img/002.gif) center center fixed;
+}
+p{
+  line-height: 2em;
+}
+h2{
+  font-family: serif;
+  letter-spacing: 0.3em;
+}
+#wrap{
+  margin: 0;
+  text-align: left;
+  color: #cc9933;
+  width: 50%;
+}
+#content{
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px dotted #e0ffff;
+  border-radius: 5px;
+  color: #00bfff;
+}
+#story{
+  margin: 2em 0 4em 0;
+  color: #1e90ff;
+}
+.attention{
+  margin: 2em 0 4em 0;
+  color: #00bfff;
+}
+#link{
+  margin: 2m 0 4em 0;
+}
+#extra{
+  margin: 2em 0 0 0;
+}
+.recolor01{
+  color: #f00;
+}
+#extra .height{
+  line-height: 4em;
+}
